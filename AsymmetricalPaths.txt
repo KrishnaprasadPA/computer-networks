@@ -1,6 +1,0 @@
-* MASS ↔ UCSD
-* MASS ↔ CERN
-* UTAH ↔ CERN
-* UCSD ↔ FIU
-* UCSD ↔ CLEM
-* STAR ↔ CERN
